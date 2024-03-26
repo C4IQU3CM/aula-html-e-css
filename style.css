@@ -1,0 +1,12 @@
+body{
+    background-color: beige;
+    background-image: url(azul.jpg);
+    background-size: cover;
+    
+}
+a{
+    font-size: 20; /* tanaho da letra*/
+    font-family: cursive; /*fonte da letra*/
+    
+
+}
